@@ -1,0 +1,18 @@
+body {
+  font-family: "Segoe UI", sans-serif;
+  background-color: #f8f9fa;
+  color: #212529;
+}
+h1, h2 {
+  color: #0d6efd;
+}
+section {
+  margin-bottom: 40px;
+}
+a {
+  color: #0d6efd;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
